@@ -20,9 +20,9 @@ tao text_classification train \
         -g $GPUS \
         -k $ENCRYPTION_KEY \
         -r $temp_result_folder_path \
-        training_ds.file_path=$RIVA_MOUNTED_DATA_DIR/dgxChatbot/text_classification/train.tsv \
-        validation_ds.file_path=$RIVA_MOUNTED_DATA_DIR/dgxChatbot/text_classification/val.tsv \
-        model.class_labels.class_labels_file=$RIVA_MOUNTED_DATA_DIR/dgxChatbot/text_classification/labels.csv \
+        training_ds.file_path=$RIVA_MOUNTED_DATA_DIR/$DOMAIN/text_classification/train.tsv \
+        validation_ds.file_path=$RIVA_MOUNTED_DATA_DIR/$DOMAIN/text_classification/val.tsv \
+        model.class_labels.class_labels_file=$RIVA_MOUNTED_DATA_DIR/$DOMAIN/text_classification/labels.csv \
         model.dataset.num_classes=$NUM_CLASSES \
         trainer.max_epochs=$NUM_EPOCH
 
