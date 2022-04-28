@@ -43,6 +43,8 @@ cd webapp-flask
 flask run
 ```
 
+The original responses to queries are specified to NVIDIA DGX systems. To modify the responses to accommodate your virtual assistant, please change the conditional statements in '''scripts/dgx_resp.py'''
+
 ## Feedback
 Feel free to try out the setup and post the issues you meet when setting up the AI virtual assistant here.
 
