@@ -42,6 +42,11 @@ cd webapp-flask
 flask run
 ```
 
-## Issues and feedback
+## Feedback
 Feel free to try out the setup and post the issues you meet when setting up the AI virtual assistant here.
 
+## Documentation
+Please find the [documentation](https://nvsa-virtualassistant.readthedocs.io/en/latest/) for this project.
+
+## Ongoing work
+* Streaming ASR implementation
