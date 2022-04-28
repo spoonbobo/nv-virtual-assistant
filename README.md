@@ -40,3 +40,7 @@ After installing these required packages, go to *webapp-flask* sample applicatio
 cd webapp-flask
 flask run
 ```
+
+## Issues and feedback
+Feel free to try out the setup and post the issues you meet when setting up the AI virtual assistant here.
+
