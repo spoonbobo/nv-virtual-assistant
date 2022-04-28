@@ -49,7 +49,7 @@ The original responses to queries are specified to NVIDIA DGX systems. To modify
 if query == <intent>: return [<message>]
 ```
 
-Similarly, the initial message from this sample application can be changed at <code>webapp-flask/app.py</code>. The sample application uses a List object to represent paragraphs of responses:
+Similarly, the initial message from this sample application can be changed at <code>webapp-flask/app.py</code>. The sample application uses a List object to represent a message:
 
 ```
 ["Sentence1", "Sentence2", "", ...]
