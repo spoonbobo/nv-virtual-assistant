@@ -31,9 +31,8 @@ sudo apt-get install python3-flask libsndfile1 libsndfile1-dev numpy==1.18 sound
 Also, grpc is needed for your the frontend to communicate with Riva AI Service, install Riva API that is included in the Riva Quick Start.
 
 ```
-cd your/path/to/riva_quickstart_v1.10.0-beta
-pip install riva_api-1.10.0b0-py3-none-any.whl
-````
+pip install your/path/to/riva_quickstart_v1.10.0-beta/riva_api-1.10.0b0-py3-none-any.whl
+```
 
 After installing these required packages, go to *webapp-flask* sample application foldera and run the application. Enjoy!
 ```
