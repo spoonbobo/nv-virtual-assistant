@@ -43,7 +43,13 @@ cd webapp-flask
 flask run
 ```
 
-The original responses to queries are specified to NVIDIA DGX systems. To modify the responses to accommodate your virtual assistant, please change the conditional statements in <code>webapp-flask/dgx_resp.py</code>. Similarly, the initial message from this sample application can be changed at <code>webapp-flask/app.py</code>. The sample application uses a List object to represent paragraphs of responses like this
+The original responses to queries are specified to NVIDIA DGX systems. To modify the responses to accommodate your virtual assistant, please change the conditional statements in <code>webapp-flask/dgx_resp.py</code> like this
+
+```
+if query == intent: return [message]
+```
+
+Similarly, the initial message from this sample application can be changed at <code>webapp-flask/app.py</code>. The sample application uses a List object to represent paragraphs of responses like this
 
 ```
 ["Sentence1", "Sentence2", "", ...]
