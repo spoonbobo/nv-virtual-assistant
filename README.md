@@ -27,7 +27,8 @@ When the deployment is finished, you are ready to use Riva AI service with the t
 A sample web application *webapp-flask* is provided for you. To use it, firstly install necessary packages:
 
 ```
-sudo apt-get install python3-flask libsndfile1 libsndfile1-dev numpy==1.18 soundfile librosa pydub
+sudo apt-get install python3-flask libsndfile1 libsndfile1-dev 
+pip numpy==1.18 soundfile librosa pydub
 ```
 
 grpc is used for your the frontend to communicate with Riva AI Service, install grpc along with Riva API that is included in the Riva Quick Start directory.
