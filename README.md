@@ -12,4 +12,14 @@ git clone https://github.com/spoonbobo/nv-virtual-assistant.git
 
 ## 2. Text classification model training
 
-Follow [training guide](https://nvsa-virtualassistant.readthedocs.io/en/latest/training.html) for model training. The scripts for training can be found in *scripts* folder at the root
+Follow [training guide](https://nvsa-virtualassistant.readthedocs.io/en/latest/training.html) for model training. 
+
+The scripts for training can be found in *scripts* in the project directory.
+
+## 3. Deployment
+
+To deploy the models you trained, follow [deployment guide](https://nvsa-virtualassistant.readthedocs.io/en/latest/deploy.html).
+
+## 4. Webapp
+
+When the deployment is finished, you are ready to use Riva AI service with the trained model. You can implement your own web applicaiton A sample web application *webapp-flask* is provided for you. 
