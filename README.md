@@ -10,6 +10,6 @@ git clone https://github.com/spoonbobo/nv-virtual-assistant.git
 ```
 2. Set up the training and deployment environment in the [setup guide](https://nvsa-virtualassistant.readthedocs.io/en/latest/prereq.html).
 
-## 2. Training
+## 2. Text classification model training
 
-The scripts for training can be found in *scripts* folder at the root
+Follow [training guide](https://nvsa-virtualassistant.readthedocs.io/en/latest/training.html) for model training. The scripts for training can be found in *scripts* folder at the root
