@@ -1,0 +1,27 @@
+body {
+    background-image: url('../static/bg1.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+* .container {
+    font-family: Trebuchet MS, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Tahoma, sans-serif;
+}
+
+* .container-fluid {
+    font-family: Trebuchet MS, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Tahoma, sans-serif;
+}
+
+.padding-0 {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.with-bg-size {
+    background-image: url('https://i.stack.imgur.com/wPh0S.jpg');
+    width: 200px;
+    height: 100px;
+    background-position: center;
+    /* Make the background image cover the area of the <div>, and clip the excess */
+    background-size: cover;
+}

@@ -1,0 +1,13 @@
+# add your data
+nlu:
+        - intent: intent1
+          examples: |
+              - utterance1
+              - utterance2
+
+        - intent: intent2
+          examples: |
+              - utterance1
+              - utterance2
+
+        # add more data

@@ -1,0 +1,190 @@
+Hello, DGX!
+Hello, DGX!
+Hello, DGX!
+Hello, DGX!
+monitor this system
+contact support
+Hello, DGX!
+monitor this system
+support services
+contact support
+configure dgx
+verify installation of dg system
+whats dgx
+Who are dgxperts
+storage?
+hmm, networking part?
+power spec?
+dgx power spec?
+dgx power spec?
+cpu :D?
+cpu 4 dgx :)?
+What is dgx system?
+how you can help me?
+documentation please
+documentation please
+tolerance for misdakes?
+how you ensure dgx self-protection
+compare a100, dgx-1 and dgx-2?
+Hello, DGX!
+Hello, DGX!
+Support services
+how to verify the installation of DGX system?
+Hello, DGX!
+Support services
+Support services
+Support services
+Support services
+Support services
+Support services
+Support services
+Support services
+How many CUDA Cores?
+CUDA
+CUDA
+Cost
+Cost
+Gold
+Bezel
+Bezel
+Are you feeling ok?
+CUDA
+Gold
+Gold
+Are you feeling ok?
+Hello
+Hello, DGX!
+Support services
+how to verify cli install of DGX system?
+CUDA
+cuda required
+Are you testing ok?
+Gold
+Are you testing ok?
+Are you testing ok?
+CUDA
+Are you testing ok?
+Are you testing ok?
+Are you testing ok?
+Are you testing ok?
+Are you testing ok?
+Are you testing ok?
+Hello, DGX!
+Hello, DGX!
+Hello, DGX!
+Hello, DGX!
+Hello, DGX!
+Hello, DGX!
+Hello, DGX!
+Hello, DGX!
+Hello, DGX!
+Hello, DGX!
+Hello, DGX!
+Hello, DGX!
+dgx system monitoring
+Hello, DGX!
+how to monitor dgx system?
+cuda required?
+are you testing ok?
+monitor
+Hello, DGX!
+monitor this system
+support servicese
+cuda required?
+are you testing ok?
+are you testing ok?
+are you testing ok?
+are you testing ok?
+are you testing ok?
+are you testing ok?
+are you testing ok?
+are you testing ok?
+are you testing ok?
+are you testing ok?
+are you testing ok?
+cuda required?
+cuda required?
+cuda required?
+cuda required?
+cuda required?
+cuda required?
+cuda required?
+cuda required?
+cuda required?
+cuda required?
+cuda required?
+cuda required?
+monitor this system
+Support services
+cuda required?
+Are you testing ok?
+Are you testing ok?
+Test
+test
+test
+Support services
+Support services
+Support services
+Support services
+Support services
+Support services
+Support services
+Support services
+Support services
+What is DGX?
+What is A100
+How many Infiniband network card in DGX
+How many Infiniband network card in DGX
+What is DGX A100?
+What is DGX A100?
+What is DGX A100?
+What is DGX A100?
+Dgxperts
+dgxpods
+hi
+install storage
+install storage on dgx
+add storage capacity
+add nvme
+crash dump
+storage for dgx a100
+add drive capacity
+cuda
+install dgx os
+add user
+things to do after installing drive
+..failed drive
+extra storage dgx a100 u2
+cuda?
+add some more storage for dgx
+how to install os for dgx?
+how to use ngc?
+how expensive is this dgx?
+what is mig?
+pcie?
+network config for dgx
+my fan is broken, how to repair?
+my drive is not working, how to fix
+seds
+power supply
+cuda container
+how to install cuda toolkit
+install os software
+get dgx prepared for operation
+get dgx prepared for operation
+how much is dgx?
+how much is dgx?
+how much is dgx?
+how much is dgx?
+how much is dgx?
+how much is dgx
+cuda
+how the cuda is used in dgx?
+replace front fan
+hi
+hi
+how much is dgx system
+how to monitor dgx
+how to monitor dgx
+how i can monitor dgx system
+How expensive is that dgx system,,,, I am very interested in buying this
