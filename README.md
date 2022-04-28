@@ -49,13 +49,14 @@ The original responses to queries are specified to NVIDIA DGX systems. To modify
 if query == <intent>: return [<message>]
 ```
 
-Similarly, the initial message from this sample application can be changed at <code>webapp-flask/app.py</code>. The sample application uses a List object to represent a message:
+The sample application uses a List object to represent a message:
 
 ```
 ["Sentence1", "Sentence2", "", ...]
 ```
-
 If you pass in an empty string, the application will treat it as a break rendered on the template.
+
+The initial message from this sample application can be changed at <code>webapp-flask/app.py</code>. 
 
 ## Feedback
 Feel free to try out the setup and post the issues you meet when setting up the AI virtual assistant here.
