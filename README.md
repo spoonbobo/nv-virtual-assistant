@@ -28,7 +28,7 @@ A sample web application *webapp-flask* is provided for you. To use it, firstly 
 
 ```
 sudo apt-get install python3-flask libsndfile1 libsndfile1-dev 
-pip numpy==1.18 soundfile librosa pydub
+pip install numpy==1.18 soundfile librosa pydub
 ```
 
 grpc is used for your the frontend to communicate with Riva AI Service, install grpc along with Riva API that is included in the Riva Quick Start directory.
