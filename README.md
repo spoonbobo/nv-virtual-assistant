@@ -22,7 +22,9 @@ To deploy the models you trained, follow [deployment guide](https://nvsa-virtual
 
 ## 4. Webapp
 
-When the deployment is finished, you are ready to use Riva AI service with the trained model. A sample web application *webapp-flask* is provided for you. To use it, firstly install necessary packages:
+When the deployment is finished, you are ready to use Riva AI service with the trained model. 
+
+A sample web application *webapp-flask* is provided for you. To use it, firstly install necessary packages:
 
 ```
 sudo apt-get install python3-flask libsndfile1 libsndfile1-dev numpy==1.18 soundfile librosa pydub
